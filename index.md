@@ -1,1 +1,1 @@
-#1 Hier entsteht eine Website zu Data aus der Serie Star Trek New Generation
+# Hier entsteht eine Website zu Data aus der Serie Star Trek New Generation

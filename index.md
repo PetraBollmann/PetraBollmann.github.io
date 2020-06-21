@@ -11,3 +11,6 @@ Manko an.
 
 Data sagt:
 > Wir müssen immer danach streben mehr zu sein, als wir sind.
+
+
+<img src="https://commons.wikimedia.org/wiki/File:Glenn_Cote_Brent_Spiner.jpg"/>

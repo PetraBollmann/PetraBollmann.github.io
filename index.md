@@ -8,3 +8,6 @@ Manko an.
 * sieht menschlich aus
 * möchte Gefühle
 * gehört zur Besatzung der USS Enterprise
+
+Data sagt:
+> Wir müssen immer danach streben mehr zu sein, als wir sind.

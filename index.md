@@ -2,3 +2,9 @@
 Data ist einer der Hauptcharaktere der Serie. Data ist ein Androide mit menschlichem Aussehen und perfekter KI. 
 Er möchte gerne menschlich sein, aber er ist nicht fähig Gefühle zu empfinden. Dies sieht er als
 Manko an.
+
+## Eigenschaften von Data
+* ist Androide
+* sieht menschlich aus
+* möchte Gefühle
+* gehört zur Besatzung der USS Enterprise
